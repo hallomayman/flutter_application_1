@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794719726364",
+    "project_id": "social-fc159",
+    "storage_bucket": "social-fc159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794719726364:android:aba4ebfe018ac8c078a8d9",
+        "android_client_info": {
+          "package_name": "com.halima.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794719726364-4cej6k8fj9pjnt30nsaj36n7h8coinjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhDtEeVh7Qn55pvRjO3Z3wbRKKtLksKGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794719726364-4cej6k8fj9pjnt30nsaj36n7h8coinjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
